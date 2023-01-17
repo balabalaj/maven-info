@@ -44,7 +44,7 @@
     <repository>
       <id>mycompany-repository</id>
       <name>MyCompany Repository</name>
-      <url>git@github.com:balabalaj/maven-info.git</url>
+      <url>https://github.com/balabalaj/maven-info.git</url>
     </repository>
   </distributionManagement>
 </project>
